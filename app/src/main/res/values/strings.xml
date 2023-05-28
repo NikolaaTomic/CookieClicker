@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CookieClicker</string>
+    <string-array name="gender">
+        <item>  Male</item>
+        <item>Female</item>
+        <item>Cookie</item>
+        <item>Hmmm..</item>
+    </string-array>
+</resources>
